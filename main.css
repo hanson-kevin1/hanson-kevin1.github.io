@@ -19,8 +19,6 @@ time, mark, audio, video {
 
 body {
 	font-family: Lato, Helvetica, Arial, sans-serif;
-	width: 100%;
-    min-width: 1200px;
 }
 
 header {
@@ -115,6 +113,12 @@ li {
 
 #q-p, #e, #c-c, #p-e {
 	margin-bottom: 15px;
+}
+
+#wrapper {
+	width: 1280px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 nav li:hover {
