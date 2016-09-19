@@ -70,12 +70,11 @@ li {
 	list-style-type: square;
 }
 
-.grey-section {
+.qual-pro, .edu {
 	background-color: #E9E9E9;
 	padding: 65px 175px 65px 175px;
 }
-
-.white-section {
+.cor-comp, .pro-exp {
 	padding: 65px 175px 65px 175px;
 }
 
